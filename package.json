@@ -1,0 +1,21 @@
+{
+  "name": "a",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/gifencoder": "^2.0.3"
+  },
+  "dependencies": {
+    "canvas": "^2.11.2",
+    "gifencoder": "^2.0.1",
+    "mime": "^4.0.1",
+    "nft.storage": "^7.1.1"
+  },
+  "description": ""
+}
