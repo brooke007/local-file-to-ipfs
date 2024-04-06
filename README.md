@@ -1,2 +1,5 @@
 # local-file-to-ipfs
-upload your local file to a decentralized storage network
+## How to run
+```
+ node upload.mjs token.png 'A name for my token' 'A longer description for the token...' all-keyframes.json dir
+```
